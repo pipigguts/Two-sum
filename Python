@@ -1,0 +1,8 @@
+#num1 is the first number
+#num2 is the second number
+#sum is the sum of those numbers
+
+num1 = input("Enter the First number 1:")
+num2 = input("Enter the Second number 2:")
+sum = num1 + num2
+print("The sum is:", sum)
